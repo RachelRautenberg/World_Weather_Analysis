@@ -19,4 +19,3 @@ I added an additional step in the challenge, allowing the user to input cities o
 
 Happy vacationing!
 
-
